@@ -11,7 +11,7 @@ Here I uploaded the computational projects I have completed for this course. The
 
 * Project 2:
   * In-class Kaggle competition using Movie Ratings data set
-  * Implement Personalized Google Page Rank algorithm
+  * Implement Personalized Google Page Rank algorithm. Implementation conceptually explained here: https://docs.google.com/presentation/d/1VSpTxdzpmMnCm2tq6mSz5y9vBLctX1lPazggF3DLJso/edit?usp=sharing
   
 #### Course Content
 * Introduction to Recommender Systems
